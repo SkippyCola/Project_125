@@ -1,0 +1,47 @@
+#heading
+{
+    font-size: 22px;
+    font-family: cursive;
+    font-weight: bolder;
+
+
+}
+#heading2
+{
+    font-size: 17px;
+    font-family: cursive;
+    font-weight: bolder;
+
+
+}
+
+#font-size
+{
+    font-size: 17px;
+    font-family: cursive;
+    font-weight: bolder;
+
+}
+
+.footer
+{
+    position:fixed;
+    background-color: royalblue;
+    color:aqua;
+    width: 100%;
+    text-align: center;
+    border-radius: 50px;
+    bottom: 0;
+    line-height: 3;
+    font-size: 17px;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+canvas
+{
+    border: 5px solid red ;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px black;
+    background-color: gold;
+}
